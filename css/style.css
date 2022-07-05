@@ -39,7 +39,7 @@ a{
 /* banner section */
 .banner{
     width: 85%;
-    margin: 0 auto;
+    margin: 100px auto;
 }
 .banner-info{
     justify-content: space-between;
